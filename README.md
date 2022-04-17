@@ -1,5 +1,5 @@
-- 👋 I’m @Trsto
+- 👋 I’m @TomasTrstan
 - 👀 Interested in HTML & CSS
-- 🌱 Currently learning JavaScript
+- 🌱 Currently learning JavaScript, C++, Python
 - 💞️ Looking to collaborate on Webprojects, Games and more...
 - 📫 Email contact: trstantomas@gmail.com
